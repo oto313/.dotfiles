@@ -1,0 +1,12 @@
+getantidote/use-omz        # handle OMZ dependencies
+ohmyzsh/ohmyzsh path:lib   # load OMZ's library
+
+# Prompt
+romkatv/powerlevel10k
+
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
+zsh-users/zsh-history-substring-search
+zsh-users/zsh-syntax-highlighting
+
+z-shell/zsh-eza
